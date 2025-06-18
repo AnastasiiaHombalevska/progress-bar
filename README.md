@@ -1,1 +1,16 @@
-# progress-bar
+#  Progress_bar
+An interactive gallery of expanding image cards built with HTML5, CSS3, and plain JavaScript.
+
+### Overview:
+- Consists of...
+
+### Technologies Used:
+- HTML5: ...
+- CSS3: ...
+- JavaScript (ES6+): ...
+### Features:
+- ...
+
+### Links
+
+- Live Site URL: [@GitHub](...) 
