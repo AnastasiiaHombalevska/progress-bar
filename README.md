@@ -22,4 +22,4 @@ A customizable and lightweight progress bar component for modern web application
 
 ### Links
 
-- Live Site URL: [@GitHub](https://progrbar.netlify.app/) 
+- Live Site URL: [@Netlify](https://progrbar.netlify.app/) 
